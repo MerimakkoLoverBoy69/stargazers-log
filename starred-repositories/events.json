@@ -1,0 +1,22 @@
+{
+  "repositories": [
+    {
+      "name": "Awesome Project",
+      "owner": "user1",
+      "description": "A project that does awesome things.",
+      "url": "https://github.com/user1/awesome-project"
+    },
+    {
+      "name": "Cool Library",
+      "owner": "user2",
+      "description": "A library that makes things cool.",
+      "url": "https://github.com/user2/cool-library"
+    },
+    {
+      "name": "Great Tool",
+      "owner": "user3",
+      "description": "A tool that helps you do great things.",
+      "url": "https://github.com/user3/great-tool"
+    }
+  ]
+}
